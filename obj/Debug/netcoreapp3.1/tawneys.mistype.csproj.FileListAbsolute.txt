@@ -1,0 +1,10 @@
+D:\NML\tawneys.mistype\bin\Debug\netcoreapp3.1\tawneys.mistype.deps.json
+D:\NML\tawneys.mistype\bin\Debug\netcoreapp3.1\tawneys.mistype.dll
+D:\NML\tawneys.mistype\bin\Debug\netcoreapp3.1\tawneys.mistype.pdb
+D:\NML\tawneys.mistype\obj\Debug\netcoreapp3.1\tawneys.mistype.csproj.AssemblyReference.cache
+D:\NML\tawneys.mistype\obj\Debug\netcoreapp3.1\tawneys.mistype.GeneratedMSBuildEditorConfig.editorconfig
+D:\NML\tawneys.mistype\obj\Debug\netcoreapp3.1\tawneys.mistype.AssemblyInfoInputs.cache
+D:\NML\tawneys.mistype\obj\Debug\netcoreapp3.1\tawneys.mistype.AssemblyInfo.cs
+D:\NML\tawneys.mistype\obj\Debug\netcoreapp3.1\tawneys.mistype.csproj.CoreCompileInputs.cache
+D:\NML\tawneys.mistype\obj\Debug\netcoreapp3.1\tawneys.mistype.dll
+D:\NML\tawneys.mistype\obj\Debug\netcoreapp3.1\tawneys.mistype.pdb
